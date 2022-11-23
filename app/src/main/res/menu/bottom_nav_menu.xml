@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_show"
+        android:icon="@drawable/ic_person_outline_black_24dp"
+        android:title="Show" />
+
+    <item
+        android:id="@+id/navigation_face"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Face Detection" />
+
+    <item
+        android:id="@+id/navigation_attendance"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Attendance" />
+
+</menu>
